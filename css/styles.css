@@ -25,7 +25,6 @@
 .navbar-second{
     flex: 0.3;
     align-items: flex-end;
-
 }
 
 .bg-light{
@@ -87,8 +86,7 @@
     border: 2px solid #d9dde1;
     padding: 3%;
     position: relative;
-    margin: 1%;
-    
+    margin: 1%;    
 }
 
 .profile-pic-review-div{
@@ -108,7 +106,7 @@
     position: relative;
     font-family: Arial;
     padding-bottom: 5%;
-  }
+}
   
 .text-block {
     text-align: center;
